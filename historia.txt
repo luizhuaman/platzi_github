@@ -1,7 +1,11 @@
 Esto es un archivo de prueba
-Esto esta sufriendo una modificacion.
-13
-14
-15
 
-Hoy hablaremos de tu vida
+Mañana hablaremos de su vida laboral.
+
+
+estamos reemplazando versiones.
+
+
+ejemplo dos para git rm --force
+
+ejemplo para git reset --soft
