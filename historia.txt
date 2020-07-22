@@ -2,6 +2,7 @@ Esto es un archivo de prueba
 
 Mañana hablaremos de su vida laboral.
 
+Anita quiere modificar el proyecto
 
 estamos reemplazando versiones.
 
