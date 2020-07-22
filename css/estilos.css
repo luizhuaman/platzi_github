@@ -51,9 +51,9 @@ body
 #post
 {
     padding: 0 0 0 1em;
-    color: white;
     font-weight: normal;
     font-size: 0.8em;
+    background: white;
 }
 
 #footer
