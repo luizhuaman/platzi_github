@@ -6,6 +6,8 @@ Anita quiere modificar el proyecto
 
 estamos reemplazando versiones.
 
+por aca paso camilo huaman y agrego cambios.
+
 
 ejemplo dos para git rm --force
 
