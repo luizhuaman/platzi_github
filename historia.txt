@@ -8,6 +8,7 @@ estamos reemplazando versiones.
 
 por aca paso camilo huaman y agrego cambios.
 
+modificacion del archivo master
 
 ejemplo dos para git rm --force
 
