@@ -14,6 +14,8 @@ Master 2
 
 Prueba 1
 
+Prueba 2
+
 ejemplo dos para git rm --force
 
 ejemplo para git reset --soft
