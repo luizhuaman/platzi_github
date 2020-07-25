@@ -14,6 +14,8 @@ Master 2
 
 Laboratio 1
 
+Laboratio 2
+
 Prueba 1
 
 Prueba 2
