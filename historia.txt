@@ -12,6 +12,8 @@ modificacion del archivo master
 
 Master 2
 
+Prueba 1
+
 ejemplo dos para git rm --force
 
 ejemplo para git reset --soft
