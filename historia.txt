@@ -12,6 +12,8 @@ modificacion del archivo master
 
 Master 2
 
+Laboratio 1
+
 Prueba 1
 
 Prueba 2
