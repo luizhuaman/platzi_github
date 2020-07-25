@@ -10,6 +10,8 @@ por aca paso camilo huaman y agrego cambios.
 
 modificacion del archivo master
 
+Master 2
+
 ejemplo dos para git rm --force
 
 ejemplo para git reset --soft
